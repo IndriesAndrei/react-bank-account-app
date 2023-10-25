@@ -1,4 +1,4 @@
-# React + Vite Bank Account App
+# React + Vite Bank Account App (with useReducer hook)
 You can: open account, deposit, withdraw, request loan and close account 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
